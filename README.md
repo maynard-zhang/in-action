@@ -8,5 +8,3 @@ These sections take a data driven approach to understanding issues such as gentr
 - [**Visualizing Building Permits in Seattle**](/interacitve-vis): The _Interactive Visualization In Action_ section uses various interactive visualization packages to explore new building permits in Seattle since 2010.
 - [**Reporting on Life Expectancy**](/r-makrdown): The _R Markdown in Action_ section demonstrates the use of R Markdown to generate a website as a report on life expectancy data from the World Bank.
 - [**Visualizing Fatal Police Shootings**](/shiny): The _Shiny in Action_ section walk through building an interactive web application for exploring the volume of fatal police shootings in the United States (using the `shiny` package).
-
-# TEST CHANGE
